@@ -1,0 +1,10 @@
+[ ] Faça uma página para listar todas imagens favoritadas.
+[ ] Para cada imagem, criar um botão para remover a imagem dos favoritos.
+[ ] Criar um botão para remover TODAS as imagens dos favoritos e a chave.
+
+[ ] Faça a implementação dessa aula em um dos projetos
+    ## Tabs
+    [ ] Salvar a última tab acessada pelo usuário
+    
+    ## Dark Mode
+    [ ] Salvar o último tema escolhido pelo usuário
